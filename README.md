@@ -1,5 +1,4 @@
-# RStudio Interview
-
+# AWS EC2 Project
 ## Problem
 <p> Create some IaC (Infrastructure as Code) to start a compute instance in AWS, Azure, or GCP that will run a script every night at midnight. This script will download a random Wikipedia article and save it somewhere on disk for long term storage.</p>
 
